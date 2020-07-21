@@ -113,8 +113,24 @@ body {
     background-color: var(--accept-color);
 }
 
-.team {
-    background: #f5f4fa;
+.advantages-title {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.142;
+    text-transform: uppercase;
+    color: var(--primary-text-color);
+}
+
+.team h3 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.187;
+    color: var(--primary-text-color);
+}
+
+.team-profession {
+    font-size: 16px;
+    line-height: 1.187;
 }
 
 .footer {
